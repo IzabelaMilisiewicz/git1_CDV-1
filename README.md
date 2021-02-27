@@ -1,14 +1,18 @@
 # git1_CDV
 
+
 ### About project in CDV for GIT TRAINING
 
-### Here is new image:
-
+### Here is new Python image:
 ![alt text](https://applover.pl/wp-content/uploads/2020/01/kisspng-python-computer-icons-programming-language-executa-5d0f0aa7c78fb3.0414836115612668558174-1024x1024.png "Python logo")
 
 
 [link to GIT tutorial](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/)
 
+
+## movies about Appium 
+[![link to video](![image](https://user-images.githubusercontent.com/79729260/109389128-599d1500-790b-11eb-915d-0732b297a1a4.png)
+)](https://www.youtube.com/watch?v=UlktcBntD6sYOUTUBE_VIDEO_ID_HERE)
 
 
 ----
